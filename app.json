@@ -1,0 +1,5 @@
+{
+  "name": "InMotionLogin",
+  "displayName": "InMotionLogin",
+  "expo": { "name": "InMotionLogin", "sdkVersion": "32.0.0", "slug": "InMotionLogin", "privacy": "public" }
+}
