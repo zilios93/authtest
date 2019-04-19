@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "95198399400",
+    "firebase_url": "https://inmotionlogin-a68ec.firebaseio.com",
+    "project_id": "inmotionlogin-a68ec",
+    "storage_bucket": "inmotionlogin-a68ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95198399400:android:e7d627c1b937d0cd",
+        "android_client_info": {
+          "package_name": "com.inmotiontest.inmotionlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95198399400-esqavn31ij64kk6tfk601ulu3sqv4d8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6NziuOnyfAgSIZUDjvLFcp41S1gWftI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95198399400-esqavn31ij64kk6tfk601ulu3sqv4d8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
